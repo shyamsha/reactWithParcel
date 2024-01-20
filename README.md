@@ -1,0 +1,16 @@
+#Parcel bundler
+-local sever
+-dev build
+-HMR
+-file watching
+-caching
+-image optimization
+-minify
+-compress
+-consist hashing
+-code splitting
+-ff bundler
+-diagnostic
+-error handling
+-https
+-tree shaking
