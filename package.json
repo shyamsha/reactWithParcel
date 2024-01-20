@@ -15,8 +15,6 @@
   "keywords": [
     "react"
   ],
-  "author": "sHyaM",
-  "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -31,5 +29,7 @@
   "bugs": {
     "url": "https://github.com/shyamsha/reactWithParcel/issues"
   },
-  "homepage": "https://github.com/shyamsha/reactWithParcel#readme"
+  "homepage": "https://github.com/shyamsha/reactWithParcel#readme",
+  "author": "sHyaM",
+  "license": "ISC"
 }
