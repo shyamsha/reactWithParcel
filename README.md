@@ -1,5 +1,5 @@
-#Parcel bundler
--local sever
+Parcel bundler
+-local server
 -dev build
 -HMR
 -file watching
@@ -12,5 +12,5 @@
 -ff bundler
 -diagnostic
 -error handling
--https
+-HTTPS
 -tree shaking
