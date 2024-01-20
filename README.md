@@ -1,6 +1,6 @@
 # Parcel bundler
 
-\_\_ ** local server
+** local server
 ** ** dev build
 ** ** HMR
 ** ** file watching
@@ -14,4 +14,4 @@
 ** ** diagnostic
 ** ** error handling
 ** ** HTTPS
-** \_\_ tree shaking
+** tree shaking
