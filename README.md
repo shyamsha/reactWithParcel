@@ -10,7 +10,7 @@
 - compress
 - consist hashing
 - code splitting
-- ff bundler
+- diff bundler
 - diagnostic
 - error handling
 - HTTPS
